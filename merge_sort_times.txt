@@ -1,0 +1,17 @@
+Size: 5, Time: 642 nanoseconds
+Size: 10, Time: 831 nanoseconds
+Size: 25, Time: 2926 nanoseconds
+Size: 50, Time: 6692 nanoseconds
+Size: 75, Time: 10430 nanoseconds
+Size: 100, Time: 14097 nanoseconds
+Size: 115, Time: 15871 nanoseconds
+Size: 125, Time: 17363 nanoseconds
+Size: 150, Time: 22472 nanoseconds
+Size: 175, Time: 25930 nanoseconds
+Size: 250, Time: 42501 nanoseconds
+Size: 500, Time: 120760 nanoseconds
+Size: 1000, Time: 393600 nanoseconds
+Size: 2500, Time: 1556605 nanoseconds
+Size: 5000, Time: 5985684 nanoseconds
+Size: 7500, Time: 12251226 nanoseconds
+Size: 10000, Time: 21662761 nanoseconds
